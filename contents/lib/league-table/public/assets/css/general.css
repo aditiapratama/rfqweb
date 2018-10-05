@@ -1,5 +1,5 @@
-
-.dalt-table-container{
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>.dalt-table-container{
 padding: 0 !important;
 border: 0 !important;
 margin: 0;
@@ -111,4 +111,4 @@ display: block !important;
 .dalt-image-right-link{
 float: right !important;
 display: block !important;
-}
+}</p></body></html>

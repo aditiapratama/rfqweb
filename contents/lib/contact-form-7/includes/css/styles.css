@@ -1,4 +1,5 @@
-div.wpcf7 {
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>div.wpcf7 {
 margin: 0;
 padding: 0;
 }
@@ -92,3 +93,4 @@ cursor: default;
 div.wpcf7 .wpcf7-submit:disabled {
 cursor: not-allowed;
 }
+</p></body></html>
